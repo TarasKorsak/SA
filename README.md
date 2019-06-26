@@ -17,4 +17,4 @@ gulp
 ```
 
 
-[Online is demo here](https://taraskorsak.github.io/SA/build/)
+[Online is demo here](https://taraskorsak.github.io/SA/dist/)
